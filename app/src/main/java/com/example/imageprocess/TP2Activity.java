@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 
 public class TP2Activity extends AppCompatActivity implements View.OnClickListener {
-    private Button next, previous, colorize, keepRed;
+    private Button next, previous, keepRed;
     private Intent intent;
     private SeekBar seekbar;
     private ImageView iv;
